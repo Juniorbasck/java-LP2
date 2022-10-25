@@ -1,0 +1,14 @@
+package genericExemplo;
+
+
+public class ImprirmirDouble {
+	double algoParaImprimir;
+	
+	public ImprirmirDouble(Double algoParaImprimir) {
+		this.algoParaImprimir = algoParaImprimir;
+	}
+	
+	public void imprimir() {
+		System.out.println(algoParaImprimir);
+	}
+}

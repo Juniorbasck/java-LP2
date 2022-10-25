@@ -1,0 +1,14 @@
+package genericTestes;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class ExemploTeste {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}

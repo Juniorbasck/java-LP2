@@ -1,0 +1,8 @@
+package genericExemplo;
+
+
+public class imprirmirDouble {
+	double algoParaImprimir;
+	
+
+}

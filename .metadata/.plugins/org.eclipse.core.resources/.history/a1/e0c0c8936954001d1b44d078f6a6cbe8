@@ -1,0 +1,11 @@
+package compose; 
+
+public class comboBox implements componenteVisual{
+	
+	@Override 
+	public void desenhar() {
+		
+		System.out.print("Desenhou o checkBox");
+	}
+	
+}
