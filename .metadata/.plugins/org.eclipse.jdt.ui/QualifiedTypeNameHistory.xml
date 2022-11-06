@@ -2,4 +2,6 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="genericExemplo.ImprimirInteiro"/>
     <fullyQualifiedTypeName name="genericExemplo.imprimirGenericoCuringa"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="compose.componenteVisual"/>
 </qualifiedTypeNameHistroy>

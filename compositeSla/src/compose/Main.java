@@ -13,6 +13,6 @@ public class Main {
 		linear.add(botao1);
 		linear.add(checkb1);
 		linear.add(combo1);
-		linear.desenhar();
+		linear.desenhar();	
 	}	
 }
